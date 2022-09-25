@@ -1,11 +1,8 @@
-You are welcome to use any language you feel familiar for this project.
+lebelImg tool is applied to help label images. Instruction from From https://github.com/heartexlabs/labelImg
 
-About the RefrenceCode folder:
-	This reference code only provides you some reference about how to play audio file. You need to program your own part to make the audio part and video part synchronized. As long as you can find ways to read *.rgb format and *.wav format, and then synchronize the video and audio parts, it will be okay. You can use libraries to read them, especially for the *.wav file. 
-	
-	Actually the purpose of audio data is making index for the comparison. Therefore, as long as you can make a index from audio data & do the comparison. You don't need to worry about data type you are using.
+YOLO4 Real-Time Object Detection helps come true the label detection. YOLO4 website: https://pjreddie.com/darknet/yolo/
 
-About the dataset folder: (you can download from Google Driver as shown in dataset.txt)
+About the dataset folder: 
 	For Video Part:
 	  Video Frame Size: 480*270
 	  Video Data format: RGB format similar with assignments
